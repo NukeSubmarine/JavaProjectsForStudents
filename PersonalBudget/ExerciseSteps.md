@@ -10,7 +10,14 @@
 
 ### Create Package:
 - **Action:** Navigate to the `src` directory in your project within your IDE.
-- **Create:** Choose to create a new package.
+- **Create:** Choose to create a new package. 
+    - ** Instructions to create a package: ** 
+    1. Open Project: Launch VS Code and open your project.
+    2. Navigate to 'src': In the Explorer pane, right-click the src  directory.
+    3. New Folder: Select New Folder and name it according to your package structure (e.g., com.personalbudget.manager).
+    4. Add Java Files: Right-click the new package folder, create new .java files.
+    5. Declare Package: At the top of each Java file in the folder, add the package declaration, e.g., package com.personalbudget.manager;.
+    6. Use the Package: To use the classes within this package in other parts of your application, import them as needed in other Java files.
 - **Package Name:** Name the package `com.personalbudget.manager`.
 - **Purpose:** This package will organize your Java classes into a clear structure, enhancing code manageability and maintainability. Packages help avoid naming conflicts, manage access control, facilitate reusability, and simplify deployment and distribution of your application components.
 
