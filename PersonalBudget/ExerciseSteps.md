@@ -74,6 +74,7 @@ public class Printer {
           return type;
       }
   }
+  ```
 
   # Main Class Setup
 
@@ -105,3 +106,5 @@ public class Main {
         System.out.println("Balance: " + manager.calculateBalance());
     }
 }
+```
+
