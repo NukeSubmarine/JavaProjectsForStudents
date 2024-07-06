@@ -14,6 +14,17 @@
 - **Package Name:** Name the package `com.personalbudget.manager`.
 - **Purpose:** This package will organize your Java classes into a clear structure, enhancing code manageability and maintainability. Packages help avoid naming conflicts, manage access control, facilitate reusability, and simplify deployment and distribution of your application components.
 
+**Code example**
+```java
+
+package com.example.utilities;
+
+public class Printer {
+    public static void printMessage(String message) {
+        System.out.println(message);
+    }
+}
+
 
 ### Create Classes:
 - **Action:** Inside the newly created package, create three Java files.
