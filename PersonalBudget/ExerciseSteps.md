@@ -16,7 +16,6 @@
 
 **Code example**
 ```java
-
 package com.example.utilities;
 
 public class Printer {
