@@ -23,7 +23,7 @@ public class Printer {
         System.out.println(message);
     }
 }
-
+```
 
 ### Create Classes:
 - **Action:** Inside the newly created package, create three Java files.
