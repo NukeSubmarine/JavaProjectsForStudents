@@ -89,6 +89,8 @@ Set up a simple command-line interface that allows users to add transactions and
 
 ## Structure Example
 ```java
+package com.example.utilities;
+
 import java.util.Scanner;
 
 public class Main {
