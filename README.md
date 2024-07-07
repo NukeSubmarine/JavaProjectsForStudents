@@ -33,8 +33,8 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Instagram nukesubmarine
-www.nukesubmarine.com
+[Instagram nukesubmarine](https://www.instagram.com/nukesubmarine/)
+
 
 ## Acknowledgements
 
